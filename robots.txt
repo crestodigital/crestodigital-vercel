@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://crestodigital.github.io/sitemap.xml
